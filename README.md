@@ -1,5 +1,5 @@
 # In Class Activity 4/21
-Amy Weston
+Amy Weston, 
 I have some very light experience with CI/CD from my last internship in the sense that I know what it is but I wasn't actively doing deployment.
 
 
