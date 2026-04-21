@@ -1,3 +1,10 @@
+# In Class Activity 4/21
+Amy Weston
+I have some very light experience with CI/CD from my last internship in the sense that I know what it is but I wasn't actively doing deployment.
+
+
+
+
 # Top Five
 
 This is a preliminary version of a social media platform called Top Five. The primary function of this website is for users to create posts listing their top five favorite items for a specific category. 
